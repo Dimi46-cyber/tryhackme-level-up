@@ -37,3 +37,12 @@ while True:
         break
     else:
         print("\n❌ Неверный ввод, выбери число от 1 до 4.")
+C:\Users\dimam\PyCharmMiscProject\.venv\Scripts\python.exe C:\Users\dimam\PyCharmMiscProject\script.py 
+
+--- Шпаргалка по Linux для QA и ИБ ---
+1. Как посмотреть, что лежит в папке?
+2. Как узнать текущую версию Apache/сервиса?
+3. Как проверить сетевое соединение (пинг)?
+4. Выход
+
+Выбери номер вопроса (1-4): 
