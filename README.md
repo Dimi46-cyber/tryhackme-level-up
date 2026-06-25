@@ -58,3 +58,4 @@ while True:
         break
 
     print("\n📌", help_dict.get(choice, "Неверный ввод, попробуй снова."))
+pentest_helper.py
